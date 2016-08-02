@@ -1,4 +1,3 @@
-layout_spectrum: 0.5308163433801383
 typography_spectrum: 0.5066317319869995
 color:
   brandStrength: 0.5463582121301442
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.5308163433801383
 name: nicholalexander
 title: nicholalexander
+description: things
